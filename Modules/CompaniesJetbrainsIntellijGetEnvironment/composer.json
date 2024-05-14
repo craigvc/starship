@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/companiesjetbrainsintellijgetenvironment",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\CompaniesJetbrainsIntellijGetEnvironment\\": "app/",
+            "Modules\\CompaniesJetbrainsIntellijGetEnvironment\\Database\\Factories\\": "database/factories/",
+            "Modules\\CompaniesJetbrainsIntellijGetEnvironment\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\CompaniesJetbrainsIntellijGetEnvironment\\Tests\\": "tests/"
+        }
+    }
+}

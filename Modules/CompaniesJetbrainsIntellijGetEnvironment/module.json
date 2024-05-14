@@ -1,0 +1,11 @@
+{
+    "name": "CompaniesJetbrainsIntellijGetEnvironment",
+    "alias": "companiesjetbrainsintellijgetenvironment",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CompaniesJetbrainsIntellijGetEnvironment\\Providers\\CompaniesJetbrainsIntellijGetEnvironmentServiceProvider"
+    ],
+    "files": []
+}
